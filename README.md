@@ -1,12 +1,12 @@
 ## Hello there 👋
 
-I'm Luiz, a brazilian data professional passionate by the whole process of building amazing data platforms 📊
+I'm Luiz, a Brazilian data professional passionate about the entire process of building incredible data platforms 📊
 
-Experienced Analytics Engineer with proven track record in leading complex data projects, I feel comfortable dealing with all the steps involved in the creatin of bespoke analytics solutions, such as:
-* Extracting data from multiple sources
-* Building and ingesting it in data warehouses and data lakes
-* Crafting high performance ETL pipelines to move the data through stages
-* Modeling it with top-notch tools such as Spark and SQL
-* Building beautiful and custom dashboards to support data-driven decisions
+As an experienced Analytics Engineer with a proven track record in leading complex data projects, I am comfortable handling all the steps involved in creating bespoke analytics solutions, such as:
+* Data extraction from multiple sources
+* Building and ingesting it into data warehouses and data lakes
+* Creating high-performance ETL pipelines to move data through stages
+* Modeling with top-notch tools like Spark and SQL
+* Creating beautiful, personalized dashboards to support data-driven decisions
 
-I'm always seeking to improve my knowledge on new tools and working on personal projects that eventually are uploaded here 😁
+I'm always looking to improve my knowledge of new tools and working on personal projects that are eventually uploaded here 😁
